@@ -11,3 +11,28 @@ img {
   width: 99%
 
 }
+
+p {
+  font-size: 15px;
+}
+
+span.name {
+  color: red;
+}
+
+#pool {
+  float: left;
+  height: 20%;
+  width: 20%;
+  border: 2px red;
+  margin-right: 15px;
+}
+
+#sfpic {
+  margin-bottom: 15px;
+  height: 170px;
+}
+
+.hob {
+  margin-bottom: 15px;
+}
