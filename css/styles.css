@@ -75,8 +75,7 @@ ul {
 }
 
 #wiki {
-  width:250px;
-  height:250px;
+  width: 260px;
   margin-left: 15px;
   margin-top: 30px;
   margin-bottom: 22px;
@@ -87,13 +86,13 @@ ul {
   height:175px;
   margin-top:60px;
   margin-left:13px;
-  margin-bottom: 45px;
+  margin-bottom: 96px;
 }
 
 #zeus {
-  width:250px;
+  width:260px;
   height:250px;
   margin-left: 15px;
   margin-top: 30px;
-  margin-bottom: 22px;
+  margin-bottom: 50px;
 }
