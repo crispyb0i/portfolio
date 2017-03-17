@@ -2,10 +2,6 @@ body {
   background-color: #e2e0e0;
 }
 
-blockquote {
-  position: inherit;
-}
-
 h1 {
   text-align: center;
   font-family: Impact, Charcoal, sans-serif;font-size: 50px;
@@ -36,7 +32,7 @@ p {
   font-family: "Trebuchet MS", Helvetica, sans-serif
 }
 
-span.name {
+.name {
   color: red;
 }
 
@@ -49,8 +45,8 @@ span.name {
 }
 
 #sfpic {
-  margin-top: 26px;
-  margin-bottom: 26px;
+  margin-top: 30px;
+  margin-bottom: 27px;
   width: 100%;
   /*height: 170px;*/
 }
@@ -66,18 +62,23 @@ span.name {
 #wiki {
   width:250px;
   height:250px;
+  margin-left: 15px;
+  margin-top: 30px;
 }
 
 #elephant {
-  width:250px;
+  width:90%;
   height:175px;
-  margin-bottom: 51px;
-  margin-top: 25px;
+  margin-top:60px;
+  margin-left:13px;
+  margin-bottom: 45px;
 }
 
 #zeus {
   width:250px;
   height:250px;
+  margin-left: 15px;
+  margin-top: 30px;
 }
 
 .project {
