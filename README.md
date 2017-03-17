@@ -14,6 +14,7 @@ _{This is my website that I created for Epicodus' Friday project. It includes an
 * _Clone the portfolio repository_
 * _Open the index.html file_
 * _Enjoy!_
+* _Page can also be viewed here: https://crispyb0i.github.io/portfolio/ _*
 
 ## Known Bugs
 
